@@ -1,3 +1,3 @@
 # PythonLabs
 
-Desafios de Python do Bootcamp da TERA em Data Science and Machine Learning
+Desafios do curso de 'Python para Análise de Dados' da Data cience Academy.
